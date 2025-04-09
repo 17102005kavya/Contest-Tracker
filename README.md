@@ -2,7 +2,7 @@
 ```markdown
 # 🏆 Contest Tracker
 
-A full-stack web app to track competitive programming contests across platforms like **Codeforces**, **LeetCode**, **CodeChef**, and **AtCoder**. Users can filter, search, bookmark contests, add them to Google Calendar, and even find YouTube solution videos!
+A full-stack web app to track competitive programming contests across platforms like Codeforces, LeetCode, CodeChef, and AtCoder. Users can filter, search, bookmark contests, add them to Google Calendar, and even find YouTube solution videos!
 
 ## ✨ Features
 
